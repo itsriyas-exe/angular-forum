@@ -45,7 +45,7 @@ Then navigate to `http://localhost:4200/
 
 ## Functionality overview
 
-The example application is a social blogging site (i.e. a Medium.com clone). You can view a live demo over at http://hamidihamza.com/angular-forum/
+The example application is a social blogging site (i.e. a Medium.com clone).
 
 **General functionality:**
 
